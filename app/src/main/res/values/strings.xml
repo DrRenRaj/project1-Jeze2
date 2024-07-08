@@ -1,3 +1,56 @@
 <resources>
-    <string name="app_name">Project1_S24</string>
+    <string name="app_name">Task Manager</string>
+    <string name="home">Home</string>
+    <string name="tasks">Tasks</string>
+    <string name="profile">Profile</string>
+    <string name="help">Help</string>
+    <string name="task_detail">Task Detail</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="shared_view_model">Shared View Model</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="task_details_fragment">Task Details Fragment</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="invalid_username_or_password">Invalid username or password</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="help_fragment">Help Fragment</string>
+    <string name="add_task_fragment">Add Task Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="tasks_fragment">Tasks Fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
+    <string name="received_message">Received Message</string>
+    <string name="navigation_header">Navigation Header</string>
+    <string name="go_to_profile">Go to Profile</string>
+    <string name="go_to_tasks">Go to Tasks</string>
+    <string name="edit_task_fragment">Edit Task Fragment</string>
+    <string name="go_to_home">Go to Home</string>
+
+    <string name="go_to_hom">Go to Home</string>
+    <string name="go_to_task">Go to Tasks</string>
+    <string name="go_to_profiles">Go to Profile</string>
+    <string name="go_home">Go to Home</string>
+    <string name="add_a_task">Add Task</string>
+    <string name="enter_a_task">Enter Task</string>
+
+    <string name="edit_text_task">Edit task</string>
+    <string name="tasks_will_be_shown_here">Tasks will be shown here</string>
+
+    <string name="usernames">Username</string>
+    <string name="go_to_help">Go to Help</string>
+    <string name="update_task">Update Task</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="register">Register</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="confirm_password">Confirm Password</string>
+
+
+
 </resources>
